@@ -1,0 +1,1 @@
+I used ChatGPT for guidance on understanding LC-3 assembly, runtime stacks, and function calls. ChatGPT also provided example assembly code and helped simplify the implementation. I tested the program myself in LC3web, checked the memory and registers, and verified that the output was correct.
